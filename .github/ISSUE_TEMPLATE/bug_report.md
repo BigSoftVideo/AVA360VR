@@ -23,7 +23,7 @@ _A clear and concise description of what you expected to happen._
 **Screenshots**
 _If applicable, add screenshots to help explain your problem._
 
-**Desktop (please complete the following information):**
+**O/S and Hardware (please complete the following information):**
  - _Windows 10 version_
  - _Laptop model_
  - _SteamVR version_
