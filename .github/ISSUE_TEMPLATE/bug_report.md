@@ -1,34 +1,34 @@
 ---
 name: Bug report
 about: Create a report to help us improve AVA360VR
-title: ''
+title: "[BUG] "
 labels: 'bug :bug:'
 assignees: RakNick, skandilocks
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+_A clear and concise description of what the bug is._
 
 **To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+_Steps to reproduce the behavior:_
+_1. Go to '...'_
+_2. Click on '....'_
+_3. Scroll down to '....'_
+_4. See error_
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+_A clear and concise description of what you expected to happen._
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+_If applicable, add screenshots to help explain your problem._
 
 **Desktop (please complete the following information):**
- - Windows 10 version
- - Laptop model
- - SteamVR version
- - VIVE or VIVE PRo
- - Version of AVA360VR
+ - _Windows 10 version_
+ - _Laptop model_
+ - _SteamVR version_
+ - _VIVE or VIVE PRo_
+ - _Version of AVA360VR_
 
 **Additional context**
-Add any other context about the problem here.
+_Add any other context about the problem here._
