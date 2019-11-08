@@ -3,7 +3,7 @@ name: Feature request or enhancement
 about: Suggest an idea for improving the AVA360VR project
 title: "[Feature] "
 labels: 'feature request :crown:'
-assignees: RakNick, skandilocks
+assignees: ArturKovacs, skandilocks, codeslayer84
 
 ---
 
