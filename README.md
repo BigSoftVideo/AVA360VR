@@ -1,4 +1,4 @@
-## How to download and setup a build of AVA360VR
+## Download and setup a build of AVA360VR
 
 - How do I [download and setup AVA360VR](install.md) for the first time?
 
