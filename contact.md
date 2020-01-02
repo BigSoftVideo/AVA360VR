@@ -1,5 +1,5 @@
-##How to contact the developers directly
+## How to contact the developers directly
 
-You can contact us via the Slack channel #ava360vr-beta.
+You can contact us via the Slack channel #ava360vr-beta on bigvideo.slack.com.
 
-If you are not subscribed to this channel, then ask for an invite.
+If you are not subscribed to this channel, then ask us for an invite.

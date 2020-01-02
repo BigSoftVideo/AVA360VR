@@ -6,6 +6,12 @@ Your system will need to fulfil certain requirements.
 
 ### Requirements
 
+You will need a fast VR-ready laptop (eg. a gaming laptop) with Windows 10, as well as an HTC VIVE or VIVE PRO.
+
+You will need to install the HTC VIVE with Steam and Steam VR. 
+
+You will need to setup the HTC VIVE room space so tracking will work.
+
 ### Downloading
 
 Download the latest build release from GitHub. 
