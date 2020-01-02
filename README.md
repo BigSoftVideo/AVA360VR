@@ -1,3 +1,6 @@
+layout: default
+<div class="blurb">
+
 # AVA360VR beta testing
 
 Help pages for beta testers of AVA360VR
@@ -21,3 +24,5 @@ Help pages for beta testers of AVA360VR
 ## Talking with the developers
 
 - How do I [contact the developers](contact.md) more directly?
+
+</div><!-- /.blurb -->
