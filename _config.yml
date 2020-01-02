@@ -10,4 +10,4 @@ relative_links:
   collections: true
 include:
   - README.md
-  - CONTRIBUTING.md
+  - contributing.md

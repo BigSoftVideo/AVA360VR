@@ -1,7 +1,3 @@
-# AVA360VR beta testing
-
-Help pages for beta testers of AVA360VR
-
 ## How to download and setup a build of AVA360VR
 
 - How do I [download and setup AVA360VR](install.md) for the first time?
