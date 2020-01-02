@@ -1,19 +1,23 @@
 # AVA360VR beta testing
 
-Private repo for beta testers of AVA360VR
+Help pages for beta testers of AVA360VR
 
 ## How to download and setup a build of AVA360VR
 
-It is quite easy to download a release build as a ZIP file, unzip it on your computer and run it on WINDOWS 10.
+- How do I download and setup AVA360VR for the first time?
 
 ## Bug reports
 
-How to enter a bug report issue
+- How do I enter a bug report?
 
 ## Feature requests
 
-How to enter a feature request or enhancement to a tool issue
+- How do I enter a feature request or enhancement?
 
 ## Using SLACK to communicate directly with the developers
 
-We are using a workspace on Slack to share thoughts and fix issues interactively
+- How do I contact the developers more directly?
+
+## Demo project and active help
+
+- How do I try the demo project and how do I access help in VR?
