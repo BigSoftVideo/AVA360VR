@@ -8,16 +8,16 @@ Help pages for beta testers of AVA360VR
 
 ## Demo project and active help
 
-- How do I try the demo project and how do I access help in VR?
+- How do I try the [demo project](demo.md) and how do I [access help in VR](help.md)?
 
 ## Bug reports
 
-- How do I enter a bug report?
+- How do I enter a [bug report](bugreport.md)?
 
 ## Feature requests
 
-- How do I enter a feature request or enhancement?
+- How do I enter a [feature request or enhancement](featurerequest.md)?
 
 ## Talking with the developers
 
-- How do I contact the developers more directly?
+- How do I [contact the developers](contact.md) more directly?
