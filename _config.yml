@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
-name: AVA360VR Beta- testing
+name: AVA360VR Beta-testing
 description: Help pages for beta-testers
+URL: "https://bigsoftvideo.github.io/AVA360VR-beta-testing"
 markdown: GFM
 plugins:
   - jekyll-relative-links
