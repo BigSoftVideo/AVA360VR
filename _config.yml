@@ -1,4 +1,7 @@
 theme: jekyll-theme-slate
+name: AVA360VR Beta- testing
+description: Help pages for beta-testers
+markdown: GFM
 plugins:
   - jekyll-relative-links
 relative_links:
