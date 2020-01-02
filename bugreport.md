@@ -4,4 +4,4 @@ If you have found a bug or have a problem with AVA360VR, then you can [create a 
 
 After you submit, then we will be notified and can respond to the bug report.
 
-If you wish to track how your bug report (or any other) is progressing, then you can see it on the [Project 'kanban' board](https://github.com/BigSoftVideo/AVA360VR-beta-testing/projects/1).
+If you wish to track how your bug report (or any other) is progressing, then you can see it on the [Project 'kanban' board](https://github.com/BigSoftVideo/AVA360VR-beta-testing/projects/1) (this will only work if you are logged into GitHub with your browser and are a member of the beta-testing group).
