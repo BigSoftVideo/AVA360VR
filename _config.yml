@@ -1,10 +1,11 @@
-theme: jekyll-theme-slate
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 name: AVA360VR Beta-testing
 description: Help pages for beta-testers
 URL: "https://bigsoftvideo.github.io/AVA360VR-beta-testing"
 markdown: GFM
 plugins:
   - jekyll-relative-links
+  - jekyll-include-cache
 relative_links:
   enabled: true
   collections: true
