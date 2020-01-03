@@ -14,6 +14,10 @@
 
 - How do I enter a [feature request or enhancement](featurerequest.md)?
 
+## More help pages and tutorials
+
+- How do I make a suggestion to [improve the help pages and tutorials(tutorialrequest.md)]?
+
 ## Talking with the developers
 
 - How do I [contact the developers](contact.md) more directly?

@@ -16,11 +16,11 @@ You will need to setup the HTC VIVE room space so tracking will work.
 
 Download the [latest build release](https://github.com/BigSoftVideo/AVA360VR-beta-testing/releases) from GitHub (this will only work if you are logged into GitHub with your browser and are a member of the beta-testing group). 
 
-When you download the build, you can also download the demo+help zip package. If you already have it, then there is no need unless it has been modified.
+When you download the build, you can also download the `AVA360VR-demo-help.zip` package. If you already have it, then there is no need unless it has been modified.
 
 ### Installing
 
-Copy it to a folder on your computer. There is no need to install the software. Just locate the AVA360VR.exe file in the root folder and double click.
+Copy it to a folder on your computer. There is no need to install the software. Just locate the `AVA360VR.exe` file in the root folder and double click.
 
 ### Running
 
