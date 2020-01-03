@@ -11,3 +11,12 @@ relative_links:
 include:
   - README.md
   - contributing.md
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+

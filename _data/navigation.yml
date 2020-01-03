@@ -1,0 +1,13 @@
+docs:
+  - title: Getting Started with AVA360VR
+    children:
+      - title: "Quick-Start Guide"
+        url: README.md
+      - title: "Installation"
+        url: install.md
+      - title: "Demo"
+        url: demo.md
+      - title: "Help"
+        url: help.md
+      - title: "Contact'"
+        url: contact.md
