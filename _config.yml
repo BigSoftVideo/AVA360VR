@@ -39,9 +39,9 @@ name                     : "BigSoftVideo"
 description              : "A help guide to get you started..."
 url                      : "https://bigsoftvideo.github.io"
 baseurl                  : "/AVA360VR-beta-testing"
-repository               : "BigSoftVideo/AVA360VR-beta-testing"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png"
+logo                     : "/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -59,10 +59,10 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.bigvideo.aau.dk"
+      # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/BigSoftVideo"
+      # url: "https://github.com/"
 
 # Site Footer
 footer:
@@ -107,7 +107,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
+markdown: GFM
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
