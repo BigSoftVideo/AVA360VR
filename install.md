@@ -1,6 +1,8 @@
 ---
 sidebar:
-  nav: "docs"
+  - title: "Getting Started with AVA360VR"
+    image: logo.png 
+    text: "[Installation](install.md)"
 ---
 
 ## How to install and run AVA360VR
