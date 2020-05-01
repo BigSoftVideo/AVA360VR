@@ -14,6 +14,10 @@
 
 - How do I enter a [feature request or enhancement](featurerequest.md)?
 
+## Project
+
+You will be able to track bugs and features as issues in our [project KANBAN board](https://github.com/BigSoftVideo/AVA360VR-beta-testing/projects/1)
+
 ## More help pages and tutorials
 
 - How do I make a suggestion to [improve the help pages and tutorials](tutorialrequest.md)?
