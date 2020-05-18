@@ -2,7 +2,7 @@
 name: Help request
 about: Suggest how to improve the help pages and video tutorials
 title: "[HELP] "
-labels: 'help request'
+labels: help request
 assignees: codeslayer84, skandilocks
 
 ---
