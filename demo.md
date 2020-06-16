@@ -1,6 +1,6 @@
 ## How to download and setup the DEMO project for the first time
 
-After you have [downloaded the demo package zip file](install.md), you can unzip the demo package since it contains all the files you need to try out a real example of a project.
+After you have [downloaded the demo package zip file](install.md), you can unzip the demo package since it contains all the files you need to try out a real example of a project. The pre-prepared projects contain [open data](https://wiki.creativecommons.org/wiki/data) that are public under the [Creative Commons (CC BT 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
 It is best to unzip this package to a fast SSD drive (internal or external). 
 

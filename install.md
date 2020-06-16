@@ -7,17 +7,25 @@ sidebar:
 
 ## How to install and run AVA360VR
 
-From GitHub you will be able to download the latest build release of AVA360VR (v3.0.0-alpha3) and run it from Windows 10 on your computer.
+From GitHub you will be able to download the latest build release of AVA360VR and run it from Windows 10 on your computer.
 
 Your system will need to fulfil certain requirements.
 
 ### Requirements
 
-You will need a fast VR-ready laptop (eg. a gaming laptop) with Windows 10, as well as an HTC VIVE or VIVE PRO (preferable). Note: we will be supporting other headsets in future, eg. Oculus Rift S, VIVE Cosmos, HP Reverb, Valve Index - but they are not fully supported with this beta release. If you are unsure if you have a compatible laptop/workstation and VR headset/controllers, then just ask us.
+You will need a fast **VR-ready** PC laptop (eg. a gaming laptop) with **Windows 10**. AVA360VR now works with most mid- to high-end VR headsets with six-degrees of freedom controllers. We have tested successfully with the following headsets:
+- HTC VIVE
+- HTC VIVE PRO
+- HTC VIVE Cosmos
+- Oculus Rift S
+- HP Reverb
+- Valve Index 
 
-You will need to install the HTC VIVE with Steam and Steam VR. An account will have to be created for Steam.
+AVA360VR should work with any VR headset that supports SteamVR, including Windows Mixed Reality. If you are unsure if you have a compatible laptop/workstation and VR headset/controllers, then just ask us.
 
-You will need to setup the HTC VIVE room space so tracking will work with the lighthouses.
+You will need to install Steam and Steam VR with the relevant VR software for your headset, eg. Windows Mixed Reality, Viveport or Oculus. An account will have to be created for Steam (and for some VR headset software).
+
+You will need to setup the room space so tracking will work with your headset and controllers.
 
 ### Downloading
 
@@ -31,6 +39,6 @@ Unzip the release of AVA360VR that you downloaded to a folder on your computer, 
 
 ### Running
 
-If you are running SteamVR with the HTV VIVE PRO, then AVA360VR will load a menu screen so you can load your demo project.
+If you are running the correct VR software with SteamVR, and the VR headset and controllers are recognised and tracked, then AVA360VR will load a menu screen so you can load your demo project.
 
-See the [help](help.md) and [demo](demo.md) projects to get started with some pre-prepared projects that are open source.
+See the [help](help.md) and [demo](demo.md) projects to get started with some pre-prepared projects with [open data](https://wiki.creativecommons.org/wiki/data) that are public under the [Creative Commons (CC BT 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
