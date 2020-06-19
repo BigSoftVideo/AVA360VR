@@ -42,3 +42,5 @@ Unzip the release of AVA360VR that you downloaded to a folder on your computer, 
 If you are running the correct VR software with SteamVR, and the VR headset and controllers are recognised and tracked, then AVA360VR will load a menu screen so you can load your demo project.
 
 See the [help](help.md) and [demo](demo.md) projects to get started with some pre-prepared projects with [open data](https://wiki.creativecommons.org/wiki/data) that are public under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY NC SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+![](images/Cc-by-nc-sa_icon.svg.png)
