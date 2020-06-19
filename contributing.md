@@ -1,9 +1,9 @@
 ## Contributors
 
-- Paul McIlvenny
-- Jacob Davidson
-- Artúr Kovávcs
+- Developer: Artúr Kovács
+- Designer: Paul McIlvenny
+- BigSoftVideo team: Jacob Davidsen
 
-### Earlier software development
+### Earlier software developers
 - Nicklas Haagh Christensen
 - Stefan Tanderup
