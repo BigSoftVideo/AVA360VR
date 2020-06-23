@@ -23,7 +23,7 @@ You will need a fast **VR-ready** PC laptop (eg. a gaming laptop) with **Windows
 
 AVA360VR should work with any VR headset that supports SteamVR, including Windows Mixed Reality. If you are unsure if you have a compatible laptop/workstation and VR headset/controllers, then just ask us.
 
-You will need to install Steam and Steam VR with the relevant VR software for your headset, eg. Windows Mixed Reality, Viveport or Oculus. An account will have to be created for Steam (and for some VR headset software).
+You will need to install Steam and Steam VR with the relevant VR software for your headset, eg. Windows Mixed Reality, Viveport or Oculus. An account will have to be created for Steam (and other software to be able to use some VR headsets).
 
 You will need to setup the room space so tracking will work with your headset and controllers.
 
@@ -31,7 +31,7 @@ You will need to setup the room space so tracking will work with your headset an
 
 Download the [latest build release](https://github.com/BigSoftVideo/AVA360VR-beta-testing/releases) from GitHub (this link will only work if you are logged into GitHub with your browser and are a member of the beta-testing group). 
 
-When you download the build, you can also download the `DEMO PACKAGE.zip` (v1.0) files. If you have already done so, then there is no need to download it again unless it has been modified.
+When you download the build, you can also download the latest `DEMO PACKAGE.zip` files. If you have already done so, then there is no need to download it again unless there is an update.
 
 ### Installing
 
