@@ -1,6 +1,6 @@
 ## Contributors
 
-- Developer: Artúr Kovács
+- Developer: Artúr Barnabás Kovács
 - Designer: Paul McIlvenny
 - BigSoftVideo team: Jacob Davidsen
 
