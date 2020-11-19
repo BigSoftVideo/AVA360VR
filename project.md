@@ -43,7 +43,7 @@ It will also be where any exported files (eg. recammed 2D video clip, keyframe s
 
 Every _AVA360VR_ project has the same folder structure as shown in the following diagram.
 
-[AVA360VR folder structure](images/fodlers.png)
+![AVA360VR folder structure](images/folders.png)
 
 If you named your project `MY PROJECT`, then every subfolder is important and should not be renamed.
 This folder structure will guide you where to copy all the files.
