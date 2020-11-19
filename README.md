@@ -1,18 +1,18 @@
-**AVA360VR** (Annotate, Visualise, Analyse 360 video in Virtual Reality) is our flagship VR software package to support immersive qualitative analysis of complex video data corpora that have been collected with multiple 2D and 360 cameras as well as external stereo and ambisonic microphones. It is designed specifically for working with and inhabiting 360 video. It includes many innovative features, such as a live transcript viewer, a comic panel sequence creator, a frame sequence generator, video recamming, 360 video switching, drawing annotation and animation, live 3D audio mixing and a full project/analysis management interface.
+_AVA360VR_ (Annotate, Visualise, Analyse 360 video in Virtual Reality) is our flagship VR software package to support immersive qualitative analysis of complex video data corpora that have been collected with multiple 2D and 360 cameras as well as external stereo and ambisonic microphones. It is designed specifically for working with and inhabiting 360 video. It includes many innovative features, such as a live transcript viewer, a comic panel sequence creator, a frame sequence generator, video recamming, 360 video switching, drawing annotation and animation, live 3D audio mixing and a full project/analysis management interface.
 
-## Download and install AVA360VR
+## Features
 
-- How do I [download and setup AVA360VR](install.md) for the first time?
+Take a look at a [list of the key features](features.md) of _AVA360VR_.
+
+## Download and install _AVA360VR_
+
+- How do I [download and setup _AVA360VR_](install.md) for the first time?
 
 ## Demo project and active help
 
 - How do I try the [demo project](demo.md) and how do I [access help in VR](help.md)?
 
-## Features
-
-Take a look at a [list of the key features](features.md) of AVA360VR.
-
-### Creating your own project
+## Create your own project
 
 Here you will find [instructions how to create your very own project](project.md) for AVA360VR.
 
