@@ -8,6 +8,14 @@
 
 - How do I try the [demo project](demo.md) and how do I [access help in VR](help.md)?
 
+## Features
+
+Take a look at a [list of the key features](features.md) of AVA360VR.
+
+### Creating your own project
+
+Here you will find [instructions how to create your very own project](project.md) for AVA360VR.
+
 ## Bug reports
 
 - How do I enter a [bug report](bugreport.md)?
@@ -16,7 +24,7 @@
 
 - How do I enter a [feature request or enhancement](featurerequest.md)?
 
-## Project
+## Tracking bugs and features
 
 You will be able to track bugs and features as issues in our [project KANBAN board](https://github.com/BigSoftVideo/AVA360VR-beta-testing/projects/1)
 

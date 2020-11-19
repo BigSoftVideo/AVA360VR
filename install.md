@@ -27,10 +27,6 @@ You will need to install Steam and Steam VR with the relevant VR software for yo
 
 You will need to setup the room space so tracking will work with your headset and controllers.
 
-### Features
-
-Take a look at a [list of the key features](features.md) of AVA360VR.
-
 ### Downloading
 
 Download the [latest build release](https://github.com/BigSoftVideo/AVA360VR-beta-testing/releases) from GitHub (this link will only work if you are logged into GitHub with your browser and are a member of the beta-testing group).
@@ -48,7 +44,3 @@ If you are running the correct VR software with SteamVR, and the VR headset and 
 See the [help](help.md) and [demo](demo.md) projects to get started with some pre-prepared projects with [open data](https://wiki.creativecommons.org/wiki/data) that are public under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 ![](images/Cc-by-nc-sa_icon.svg.png)
-
-### Creating your own project
-
-Here you will find [instructions how to create your very own project](project.md) for AVA360VR.
