@@ -6,7 +6,7 @@ This is a guide how to create a new project with your own data.
 
 All the synced audio and video clips to be used in a project need to be synced together so that they have the same IN and OUT points and therefore they are all of the same time duration.
 This must be done outside of _AVA360VR_.
-We have produced an [online video that instructs how to synchronise multiple video files and export them as clips](https://doi.org/10.5281/zenodo.4090664) with identical IN and OUT timecodes.
+We have produced an [online video](https://youtu.be/FWZy9PK_ODw) that gives instructions how to synchronise multiple video files and export them as clips with identical IN and OUT timecodes.
 
 #### Synced 360 video clips
 

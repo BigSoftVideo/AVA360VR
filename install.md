@@ -19,13 +19,17 @@ You will need a fast **VR-ready** PC laptop (eg. a gaming laptop) with **Windows
 - HTC VIVE Cosmos
 - Oculus Rift S
 - HP Reverb
-- Valve Index 
+- Valve Index
 
-AVA360VR should work with any VR headset that supports SteamVR, including Windows Mixed Reality. If you are unsure if you have a compatible laptop/workstation and VR headset/controllers, then just ask us.
+AVA360VR should work with any VR headset that supports _SteamVR_, including _Windows Mixed Reality_ and _Oculus_. If you are unsure if you have a compatible laptop/workstation and VR headset/controllers, then just ask us.
 
-You will need to install Steam and Steam VR with the relevant VR software for your headset, eg. Windows Mixed Reality, Viveport or Oculus. An account will have to be created for Steam (and other software to be able to use some VR headsets).
+You will need to install Steam and Steam VR with the relevant VR software for your headset, eg. _Windows Mixed Reality_, _Viveport_ or _Oculus_. An account will have to be created for Steam (and other software to be able to use some VR headsets).
 
 You will need to setup the room space so tracking will work with your headset and controllers.
+
+### Features
+
+Take a look at a [list of the key features](features.md) of AVA360VR.
 
 ### Downloading
 
@@ -44,3 +48,7 @@ If you are running the correct VR software with SteamVR, and the VR headset and 
 See the [help](help.md) and [demo](demo.md) projects to get started with some pre-prepared projects with [open data](https://wiki.creativecommons.org/wiki/data) that are public under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 ![](images/Cc-by-nc-sa_icon.svg.png)
+
+### Creating your own project
+
+Here you will find [instructions how to create your very own project](project.md) for AVA360VR.
