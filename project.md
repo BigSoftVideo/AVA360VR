@@ -12,6 +12,9 @@ We have produced an [online video](https://youtu.be/FWZy9PK_ODw) that gives inst
 
 - The resolution and bit rate of the 360 video should be as high as possible, otherwise the video playback will be blocky and blurred in VR.
 Use the raw footage and render at a high bit rate using the camera software (or _MistikaVR_).
+- The dimensions of the 360 video should be 4K or UHD, eg. from 3840x1920 up to 4096x2160.
+Video at higher resolutions, eg. 8K or 6K is not supported.
+The video playback may be choppy and delayed.
 - Stitch the raw footage carefully so that the stitch lines between lenses are not too visible.
 - With mobile 360 cameras use stabilisation while filming or stabilise later in the camera software.
 _MistikaVR_ has tools for re-stabilising, but it is not free and it takes some effort.
