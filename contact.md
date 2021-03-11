@@ -7,3 +7,5 @@ If you are not subscribed to this channel, then ask us for an invite.
 Please direct your questions about AVA360VR to the Slack channel, where we can have a conversation to find answers.
 
 On the other hand, [Bug reports](bugreport.md) and [feature requests](featurerequest.md) should be added to GitHub.
+
+You can also discuss features, enhancements and bugs on our AVA360VR beta-release [Discussion Forum](https://github.com/BigSoftVideo/AVA360VR-beta-testing/discussions) on GitHub.
