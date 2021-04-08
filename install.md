@@ -29,13 +29,13 @@ You will need to setup the room space so tracking will work with your headset an
 
 ### Downloading
 
-Download the [latest build release](https://github.com/BigSoftVideo/AVA360VR-beta-testing/releases) from GitHub (this link will only work if you are logged into GitHub with your browser and are a member of the beta-testing group).
+Download the [latest build release](https://github.com/BigSoftVideo/AVA360VR-beta-testing/releases) from GitHub.
 
 When you download the build, you can also download the latest `DEMO PACKAGE.zip` files. If you have already done so, then there is no need to download it again unless there is an update.
 
 ### Installing
 
-Unzip the release of AVA360VR that you downloaded to a folder on your computer, preferably a fast SSD drive (internal or external). There is no need to install the software. Just locate the `AVA360VR.exe` file in the root folder and double click.
+Unzip the release of AVA360VR that you downloaded to a folder on your computer, preferably a fast SSD drive (internal or external). There is no need to install the software. Just locate the `AVA360VR.exe` file in the root folder and launch the application.
 
 ### Running
 
