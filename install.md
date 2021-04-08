@@ -13,7 +13,9 @@ Your system will need to fulfil certain requirements.
 
 ### Requirements
 
-You will need a fast **VR-ready** PC laptop (eg. a gaming laptop) with **Windows 10**. AVA360VR now works with most mid- to high-end VR headsets with six-degrees of freedom controllers. We have tested successfully with the following headsets:
+You will need a fast **VR-ready** PC laptop (eg. a gaming laptop) with **Windows 10**.
+AVA360VR now works with most mid- to high-end VR headsets with six-degrees of freedom controllers.
+We have tested successfully with the following headsets:
 - HTC VIVE
 - HTC VIVE PRO
 - HTC VIVE Cosmos
@@ -21,9 +23,11 @@ You will need a fast **VR-ready** PC laptop (eg. a gaming laptop) with **Windows
 - HP Reverb G1 (not the G2)
 - Valve Index
 
-AVA360VR should work with any VR headset that supports _SteamVR_, including _Windows Mixed Reality_ and _Oculus_. If you are unsure if you have a compatible laptop/workstation and VR headset/controllers, then just ask us.
+AVA360VR should work with any VR headset that supports _SteamVR_, including _Windows Mixed Reality_ and _Oculus_.
+If you are unsure if you have a compatible laptop/workstation and VR headset/controllers, then just ask us.
 
-You will need to install Steam and Steam VR with the relevant VR software for your headset, eg. _Windows Mixed Reality_, _Viveport_ or _Oculus_. An account will have to be created for Steam (and other software to be able to use some VR headsets).
+You will need to install Steam and Steam VR with the relevant VR software for your headset, eg. _Windows Mixed Reality_, _Viveport_ or _Oculus_.
+An account will have to be created for Steam (and also for other software to be able to use some VR headsets).
 
 You will need to setup the room space so tracking will work with your headset and controllers.
 
@@ -31,11 +35,14 @@ You will need to setup the room space so tracking will work with your headset an
 
 Download the [latest build release](https://github.com/BigSoftVideo/AVA360VR-beta-testing/releases) from GitHub.
 
-When you download the build, you can also download the latest `DEMO PACKAGE.zip` files. If you have already done so, then there is no need to download it again unless there is an update.
+When you download the build, you can also download the latest `DEMO PACKAGE.zip` files.
+If you have already done so, then there is no need to download it again unless there is an update.
 
 ### Installing
 
-Unzip the release of AVA360VR that you downloaded to a folder on your computer, preferably a fast SSD drive (internal or external). There is no need to install the software. Just locate the `AVA360VR.exe` file in the root folder and launch the application.
+Unzip the release of AVA360VR that you downloaded to a folder on your computer, preferably a fast SSD drive (internal or external).
+There is no need to install the software.
+Just locate the `AVA360VR.exe` file in the root folder and launch the application.
 
 ### Running
 
