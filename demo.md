@@ -2,7 +2,7 @@
 
 After you have [downloaded the demo package zip file](install.md), you can unzip the demo package since it contains all the files you need to try out a real example of a project. The pre-prepared projects contain [open data](https://wiki.creativecommons.org/wiki/data) that are public under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-It is best to unzip this package to a fast SSD drive (internal or external).
+It is best to unzip this package to a fast SSD drive (internal or external). The demo package is huge (GBs) so you will need plenty of free storage.
 
 The top folder will be the initial location of your MY PROJECTS. Under this folder you will see more folders for six projects: HELP, HELP2, HELP3, PROBLEMS, CREATING-PROJECTS, LEGO-DEMO.
 
