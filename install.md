@@ -18,7 +18,7 @@ You will need a fast **VR-ready** PC laptop (eg. a gaming laptop) with **Windows
 - HTC VIVE PRO
 - HTC VIVE Cosmos
 - Oculus Rift S
-- HP Reverb
+- HP Reverb G1 (not the G2)
 - Valve Index
 
 AVA360VR should work with any VR headset that supports _SteamVR_, including _Windows Mixed Reality_ and _Oculus_. If you are unsure if you have a compatible laptop/workstation and VR headset/controllers, then just ask us.
