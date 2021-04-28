@@ -1,4 +1,6 @@
-AVA360VR_ (Annotate, Visualise, Analyse 360 video in Virtual Reality) is our flagship VR software package to support immersive qualitative analysis of complex video data corpora that have been collected with multiple 2D and 360 cameras as well as external stereo and ambisonic microphones. It is designed specifically for working with and inhabiting 360 video. It includes many innovative features, such as a live transcript viewer, a comic panel sequence creator, a keyframe sequence generator, video recamming, 360 video switching, drawing annotation and animation, live 3D audio mixing, volumetric capture and replay of actual usage, and a full project/analysis management interface.
+AVA360VR_ (Annotate, Visualise, Analyse 360 video in Virtual Reality) is our flagship VR software package to support immersive qualitative analysis of complex video data corpora that have been collected with multiple 2D and 360 cameras as well as external stereo and ambisonic microphones.
+It is designed specifically for working with and inhabiting 360 video.
+It includes many innovative features, such as 360 video switching, video recamming, live 3D audio mixing, a keyframe image sequence generator, annotating with drawings and animation, a live transcript viewer, a comic panel sequence creator, volumetric capture and replay of actual usage, 3D tutorials and a full project/analysis management interface.
 
 ## Features
 
