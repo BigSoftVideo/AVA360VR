@@ -3,8 +3,9 @@
 This is a list of some of the key features of AVA360VR according to different categories, with links and some indication of whether or not there is an instruction video (📼) or 'volcap' (🌐) in the demo package.
 
 ### Project management
+- Add multimedia assets to your project folder structure (📼)
 - [Create new projects and analyses](project.md) and load a saved analysis version in a project (📼)
-- Build and manipulate a visual mapping of groups of analysis version in one project (📼)
+- Build and manipulate a visual mapping of groups of analysis version in one project (🌐)
 - Create multiple projects and map groups of saved analysis versions across projects (📼)
 
 ### Multimedia assets
@@ -13,10 +14,10 @@ This is a list of some of the key features of AVA360VR according to different ca
 - Import and resize 3D models (🌐)
 
 ### Controls
-- Use the buttons and radial menus on the controllers (video)
+- Use the buttons and radial menus on the controllers (🌐)
 - Resize, pin and rotate lock all windows (🌐)
 - Rotate the 360 scene (🌐)
-- Toggle the audience view of the action (POV, over-the-shoulder, slide show, transcript viewer) (🌐)
+- Toggle the audience view of the action (POV, over-the-shoulder, slide show, transcript viewer) (📼)
 
 ### Playback
 - Scrub the timeline (video) (🌐)
@@ -24,7 +25,7 @@ This is a list of some of the key features of AVA360VR according to different ca
 - View mirror cam that makes visible what is behind you (🌐)
 
 ### Sound
-- Adjust the master volume (video)
+- Adjust the master volume (video) (🌐)
 - Adjust the volume of individual audio sources (🌐)
 - Mute and solo individual audio sources (🌐)
 - Mix multiple audio sources together spatially (🌐)
@@ -34,9 +35,9 @@ This is a list of some of the key features of AVA360VR according to different ca
 - Animate drawings, objects and windows (🌐)
 
 ### Generating 2D representations
-- Export 360 screenshots (video)
+- Export 360 screenshots (video) (🌐)
 - Generate and play 2D recam clips from the master 360 video (🌐)
-- Create and export (Muybridge) keyframe sequences (📼)
+- Create and export (Muybridge) keyframe sequences (🌐)
 - Generate, edit and export comic panel sequences (🌐)
 
 ### Presenting
@@ -45,7 +46,7 @@ This is a list of some of the key features of AVA360VR according to different ca
 - Show invisible slide notes on the left controller
 
 ### Capturing
-- Create volumetric captures (volcaps) while using AVA360VR (🌐)
+- Create volumetric captures (volcaps) while using AVA360VR (📼)
 - Replay and pause volcaps
 - Teleport in a volcap replay
 - Toggle the audience view of the replay (static cameras, POV, Quad)
