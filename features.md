@@ -1,6 +1,6 @@
 ## Main features of AVA360VR
 
-This is a list of some of the key features of AVA360VR according to different categories, with links and some indication of whether or not there is an instruction video (📼) or 'volcap' (🌐) in the demo package.
+This is a list of some of the key features of AVA360VR according to different categories, with links and some indication of whether or not there is an tutorial video (📼) or 'VolCap' (🌐) in the [Demo Package](demo.md).
 
 ### Project management
 - Add multimedia assets to your project folder structure (📼)
@@ -11,7 +11,7 @@ This is a list of some of the key features of AVA360VR according to different ca
 ### Multimedia assets
 - Import synced and unsynced audio-visual clips (🌐)
 - Import multiple 360 videos and switch intuitively between them (🌐)
-- Import and resize 3D models (🌐)
+- Import and resize images and 3D models (🌐)
 
 ### Controls
 - Use the buttons and radial menus on the controllers (🌐)
@@ -21,7 +21,7 @@ This is a list of some of the key features of AVA360VR according to different ca
 
 ### Playback
 - Scrub the timeline (video) (🌐)
-- Sync of all audio-visual assets imported in the scene
+- Sync of all audiovisual assets imported in the scene
 - View mirror cam that makes visible what is behind you (🌐)
 
 ### Sound
@@ -46,7 +46,7 @@ This is a list of some of the key features of AVA360VR according to different ca
 - Show invisible slide notes on the left controller
 
 ### Capturing
-- Create volumetric captures (volcaps) while using AVA360VR (📼)
-- Replay and pause volcaps
-- Teleport in a volcap replay
+- Create volumetric captures (VolCaps) while using AVA360VR (📼)
+- Replay and pause VolCaps
+- Teleport in a VolCap replay
 - Toggle the audience view of the replay (static cameras, POV, Quad)
