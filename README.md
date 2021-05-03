@@ -36,7 +36,7 @@ You will be able to track bugs and features as issues in our [project board](htt
 
 ## Discussion of AVA360VR on GitHub
 
-You can discuss features, enhancements and bugs on our [AVA360VR beta-release Discussion Forum](https://github.com/BigSoftVideo/AVA360VR/discussions) on GitHub.
+You can discuss features, enhancements and bugs on our [AVA360VR Discussion Forum](https://github.com/BigSoftVideo/AVA360VR/discussions) on GitHub.
 
 ## Talking with the developers
 
