@@ -1,10 +1,63 @@
 ## How to access help in VR
 
-These GitHub help pages provide the basics to get started. Once you have installed AVA360VR and the demo and help projects package, then you can access help video tutorials and slides directly in AVA360VR without leaving VR.
+These GitHub help pages provide the basics to get started. Once you have installed AVA360VR and the Demo Package, then you can access help video and volcap tutorials directly in AVA360VR without leaving VR.
 
-The help tutorials are accessible in VR from the [demo package](demo.md) after it is loaded.
-Just go to the analysis mapping tool accessible from the left controller.
-
-If you wish to go straight to the HELP project tutorials, then after running AVA360VR and selecting the LOAD screen, you can load the analysis version called `help-001` after switching to the `HELP` project in the `DEMO PACKAGE` folder.
+The help tutorials are accessible in VR from the [Demo Package](demo.md) after it is loaded.
+If you wish to go straight to the HELP project tutorials, then after running AVA360VR and selecting the LOAD screen, you can load the analysis version called `HELP-001` after switching to the `HELP` project in the `DEMO PACKAGE`.
+Or else, just go to the analysis mapping tool accessible from the left controller.
 
 Please submit a [suggestion how to improve the help pages and video tutorials](tutorialrequest.md).
+
+### Complete list of tutorials contained in the Demo Package
+
+There is a healthy selection of video and VolCap tutorials accessible from the Demo Package. Here is a list:
+
+#### Guides
+- Welcome
+- Getting Started
+- AVA360VR minitour
+- Demo 1 - Multicam
+- Demo 2 - Audio Mix
+- Demo 3 - Drawing
+- Demo Tour
+
+#### Basics
+- Controllers
+- Playback
+- Window Controls
+- Rotate Scene
+- Navigation
+- Audience Cam
+
+##### Project management
+- Preparing Media Files
+- Project Folder Structure
+- Project, Analysis and Version
+- Creating a New Project
+- Analysis Mapping
+
+#### Multimedia assets
+- Synced 2D video
+- Synced 360 video
+- Unsynced 2D Video
+- Play Individual Media
+- Import Audio
+- Audio volume
+- Audio Controls
+- Import Image
+- Import 3D Object
+
+#### Tools
+- Mirror Cam
+- Recam
+- Keyframe Sequencer
+- Screenshot
+- Drawing
+- Animation
+- Comic Creator
+- Transcript Viewer
+- Slide Presenter
+- Volumetric Capture & Replay
+
+#### Problems
+- General Problems
