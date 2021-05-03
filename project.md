@@ -4,7 +4,7 @@ This is a guide how to create a new project with your own data.
 
 ### Preparing multimedia assets
 
-How to get your multimedia data ready to add to your AVA360VR project as assets.
+How to get your multimedia data ready to add to your _AVA360VR_ project as assets.
 
 #### Synched versus unsynced media files
 
@@ -23,6 +23,10 @@ The video playback may be choppy and delayed.
 - Stitch the raw footage carefully so that the stitch lines between lenses are not too visible.
 - With mobile 360 cameras use stabilisation while filming or stabilise later in the camera software.
 _MistikaVR_ has tools for re-stabilising, but it is not free and it takes some effort.
+- If _AVA360VR_ does not recognise your audio or video file and cannot import it, then you may need to reformat it using a standard codec for MP4 or WAV, for example.
+You can use any non-linear video editor (e.g. _Adobe Premiere Pro_ or _Final Cut Pro_) or cross-platform free open-source software such as [_HandBrake_](https://handbrake.fr) to export the video into the new format.
+Choose a standard preset such as `Video You Tube` and select a similar size and framerate to the original.
+You may need to experiment to find the best quality.
 
 #### Synced audio clips
 
@@ -36,9 +40,11 @@ They should be in a suitable format as above.
 
 #### Transcripts
 
-Transcripts should be prepared with our software DOTE (Distributed Open Transcription Environment), which is currently in beta-testing.
-The transcript projects prepared with DOTE can be opened natively in AVA360VR.
-Transcripts can be live edited in DOTE while viewing them in _AVA360VR_.
+Transcripts should be prepared with our software _DOTE_ (Distributed Open Transcription Environment), which is currently in beta-testing (as of May 2021).
+The transcript projects prepared with _DOTE_ can be opened natively in _AVA360VR_.
+First, create a transcript that is synced to the master 360 video for the _AVA360VR_ project you have created.
+The _DOTE_ transcript project can be created in the Transcript folder and it will automatically be readable within _AVA360VR_.
+Moreover, it can be edited live in _DOTE_ on the desktop and refreshed in real-time in the transcript viewer in VR.
 
 #### Images
 
