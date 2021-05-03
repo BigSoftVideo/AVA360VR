@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
-title: AVA360VR Beta-testing
-description: Help pages for beta-testers
-URL: "https://bigsoftvideo.github.io/AVA360VR-beta-testing"
+title: AVA360VR (Annotate, Visualise, Analyses 360 Video in VR)
+description: Help pages and tutorials
+URL: "https://bigsoftvideo.github.io/AVA360VR"
 image: "/images/logo.png"
 markdown: GFM
 plugins:
