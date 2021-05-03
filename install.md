@@ -33,7 +33,7 @@ You will need to setup the room space so tracking will work with your headset an
 
 ### Downloading
 
-Download the [latest build release](https://github.com/BigSoftVideo/AVA360VR-beta-testing/releases) from GitHub.
+Download the [latest build release](https://github.com/BigSoftVideo/AVA360VR/releases) from GitHub.
 
 When you download the build, you can also download the latest `DEMO PACKAGE.zip` files.
 If you have already done so, then there is no need to download it again unless there is an update.
