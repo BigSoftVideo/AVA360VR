@@ -48,12 +48,12 @@ Moreover, it can be edited live in _DOTE_ on the desktop and refreshed in real-t
 
 #### Images
 
-Images can be imported if they are in standard formats such as `PNG`, `GIF` or `JPG`.
+- Images can be imported if they are in standard formats such as `PNG`, `GIF` or `JPG`.
 The size of the window displaying the image that is imported in AVA360VR is proportional to the dimensions of the image.
 
 #### 3D models
 
-3D models (with textures) for AVA360VR should be in `FBX` or `OBJ` format as one file.
+- 3D models (with textures) for AVA360VR should be in `FBX` or `OBJ` format as one file.
 Some models may not be importable, or if they are, then the colour textures may be missing.
 
 ### Creating a new project
@@ -80,7 +80,7 @@ Every _AVA360VR_ project has the same folder structure as shown in the following
 If you named your project `MY PROJECT`, then every subfolder is important and should not be renamed.
 This folder structure will guide you into which folders you need to copy all the files.
 When you created the project, the master 360 video was copied automatically to the correct subfolder `MY PROJECT/Video/Synced360/`.
-Now you need to copy any other audio-visual files into the correct subfolders.
+With the folder structure generated, you will need to populate it with your assets, ie. copy any other audio-visual files into the correct subfolders.
 For example, if you have a synced audio file (eg. a wireless microphone), then copy the file into the `MY PROJECT/Audio/Synced Audio/` subfolder.
 
 ### Importing assets in AVA360VR
