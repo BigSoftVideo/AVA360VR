@@ -4,7 +4,7 @@ It includes many innovative features, such as 360 video switching, video recammi
 
 ## Features
 
-Take a look at a [list of the key features](features.md) of _AVA360VR_.
+- Take a look at a [list of the key features](features.md) of _AVA360VR_.
 
 ## Download and install _AVA360VR_
 
@@ -16,7 +16,7 @@ Take a look at a [list of the key features](features.md) of _AVA360VR_.
 
 ## Create your own project
 
-Here you will find [instructions how to create your very own project](project.md) for AVA360VR.
+- Here you will find [instructions how to create your very own project](project.md) for AVA360VR.
 
 ## Bug reports
 
@@ -28,7 +28,7 @@ Here you will find [instructions how to create your very own project](project.md
 
 ## Tracking bugs and features
 
-You will be able to track bugs and features as issues in our [project board](https://github.com/BigSoftVideo/AVA360VR/projects/1)
+- You will be able to track bugs and features as issues in our [project board](https://github.com/BigSoftVideo/AVA360VR/projects/1)
 
 ## More help pages and tutorials
 
@@ -36,7 +36,7 @@ You will be able to track bugs and features as issues in our [project board](htt
 
 ## Discussion of AVA360VR on GitHub
 
-You can discuss features, enhancements and bugs on our [AVA360VR Discussion Forum](https://github.com/BigSoftVideo/AVA360VR/discussions) on GitHub.
+- You can discuss features, enhancements and bugs on our [AVA360VR Discussion Forum](https://github.com/BigSoftVideo/AVA360VR/discussions) on GitHub.
 
 ## Talking with the developers
 
