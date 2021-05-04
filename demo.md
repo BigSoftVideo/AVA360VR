@@ -11,6 +11,6 @@ To load the welcome and introduction, then from the main menu in AVA360VR choose
 Then browse for the analysis version called `welcome-001` in the `HELP` project after you have switched to the location of your `DEMO PACKAGE` folder (that you unzipped after downloading the demo package).
 You will learn how to load other help tutorials. We recommend the getting started tutorial, and those on how to use the controllers, playback, window controls and navigation.
 
-After you have tried some help tutorials in VR, you can load the demo LEGO project.
+After you have tried some help tutorials in VR, you can load the LEGO data demonstration project.
 From the main menu in AVA360VR choose the load option.
 Then browse for the analysis version called `lego-demo1-001` in the `LEGO DEMO` project in the `DEMO PACKAGE` folder.
