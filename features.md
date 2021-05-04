@@ -1,6 +1,6 @@
-## Main features of AVA360VR
+## Main features of _AVA360VR_
 
-This is a list of some of the key features of AVA360VR according to different categories, with links and some indication of whether or not there is an tutorial video (📼) or 'VolCap' (🌐) in the [Demo Package](demo.md).
+This is a list of some of the key features of AVA360VR according to different categories, with links and some indication of whether or not there is a tutorial video (📼) or 'VolCap' (🌐) available in the [Demo Package](demo.md).
 
 ### Project management
 

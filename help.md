@@ -1,6 +1,6 @@
 ## How to access help in VR
 
-These GitHub help pages provide the basics to get started. Once you have installed AVA360VR and the Demo Package, then you can access help video and volcap tutorials directly in AVA360VR without leaving VR.
+These GitHub help pages provide the basics to get started. Once you have installed _AVA360VR_ and the Demo Package, then you can access help video and volcap tutorials directly in _AVA360VR_ without leaving VR.
 
 The help tutorials are accessible in VR from the [Demo Package](demo.md) after it is loaded.
 If you wish to go straight to the HELP project tutorials, then after running AVA360VR and selecting the LOAD screen, you can load the analysis version called `HELP-001` after switching to the `HELP` project in the `DEMO PACKAGE`.
