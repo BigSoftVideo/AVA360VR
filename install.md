@@ -31,20 +31,20 @@ An account will have to be created for Steam (and also for other software to be 
 
 You will need to setup the room space so tracking will work with your headset and controllers.
 
-### Downloading
+### Downloading _AVA360VR_
 
 Download the [latest build release](https://github.com/BigSoftVideo/AVA360VR/releases) from GitHub.
 
 When you download the build, you can also download the latest `DEMO PACKAGE.zip` files.
 If you have already done so, then there is no need to download it again unless there is an update.
 
-### Installing
+### Installing _AVA360VR_
 
 Unzip the release of AVA360VR that you downloaded to a folder on your computer, preferably a fast SSD drive (internal or external).
 There is no need to install the software.
 Just locate the `AVA360VR.exe` file in the root folder and launch the application.
 
-### Running
+### Running _AVA360VR_
 
 If you are running the correct VR software with SteamVR, and the VR headset and controllers are recognised and tracked, then AVA360VR will load a menu screen so you can load your demo project.
 
