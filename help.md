@@ -12,16 +12,18 @@ Please submit a [suggestion how to improve the help pages and video tutorials](t
 
 There is a healthy selection of video and VolCap tutorials accessible from the Demo Package. Here is a list:
 
-#### Guides
+#### Guides and Demonstrations
+
 - Welcome
 - Getting Started
 - AVA360VR minitour
 - Demo 1 - Multicam
 - Demo 2 - Audio Mix
 - Demo 3 - Drawing
-- Demo Tour
+- Demo Grand Tour
 
 #### Basics
+
 - Controllers
 - Playback
 - Window Controls
@@ -30,6 +32,7 @@ There is a healthy selection of video and VolCap tutorials accessible from the D
 - Audience Cam
 
 ##### Project management
+
 - Preparing Media Files
 - Project Folder Structure
 - Project, Analysis and Version
@@ -37,6 +40,7 @@ There is a healthy selection of video and VolCap tutorials accessible from the D
 - Analysis Mapping
 
 #### Multimedia assets
+
 - Synced 2D video
 - Synced 360 video
 - Unsynced 2D Video
@@ -48,6 +52,7 @@ There is a healthy selection of video and VolCap tutorials accessible from the D
 - Import 3D Object
 
 #### Tools
+
 - Mirror Cam
 - Recam
 - Keyframe Sequencer
@@ -60,4 +65,5 @@ There is a healthy selection of video and VolCap tutorials accessible from the D
 - Volumetric Capture & Replay
 
 #### Problems
+
 - General Problems
