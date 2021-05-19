@@ -13,8 +13,8 @@ The VolCaps are 50 to 100 times smaller in MBytes than the equivalent video.
 
 ### Multimedia assets
 
-- Import synced and unsynced audio-visual clips (🌐)
-- Import multiple 360 videos and switch intuitively between them (🌐)
+- Import and play synced and unsynced audio-visual clips (🌐)
+- Import and play multiple 360 videos and switch intuitively between them (🌐)
 - Import and resize images and 3D models (🌐)
 
 ### Controls
@@ -27,7 +27,7 @@ The VolCaps are 50 to 100 times smaller in MBytes than the equivalent video.
 ### Playback
 
 - Scrub the timeline (video) (🌐)
-- Sync of all audio-visual assets imported in the scene
+- Synchronisation of all audio-visual assets imported in the scene
 - View mirror cam that makes visible what is behind you (🌐)
 
 ### Sound
@@ -52,8 +52,8 @@ The VolCaps are 50 to 100 times smaller in MBytes than the equivalent video.
 ### Presenting
 
 - Import, view and loop time-coded transcripts in VR (🌐)
-- Present a slideshow in VR with timer countdown and inserted video clips (🌐)
-- Show invisible slide notes on the left controller
+- Present a slideshow in VR with timer countdown and play inserted video clips (🌐)
+- Show handy private slide notes
 
 ### Capturing
 
