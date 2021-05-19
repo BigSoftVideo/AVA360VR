@@ -1,6 +1,8 @@
 ## Main features of _AVA360VR_
 
 This is a list of some of the key features of AVA360VR according to different categories, with links and some indication of whether or not there is a tutorial video (📼) or 'VolCap' (🌐) available in the [Demo Package](demo.md).
+At some point, all the VolCaps will also be available to download as 2D videos from an archive, but they cannot be included in the Demo Package because of space restrictions.
+The VolCaps are 50 to 100 times smaller in MBytes than the equivalent video.
 
 ### Project management
 
@@ -50,7 +52,7 @@ This is a list of some of the key features of AVA360VR according to different ca
 ### Presenting
 
 - Import, view and loop time-coded transcripts in VR (🌐)
-- Present a slideshow in VR with timer countdown and inserted video clips'
+- Present a slideshow in VR with timer countdown and inserted video clips (🌐)
 - Show invisible slide notes on the left controller
 
 ### Capturing
