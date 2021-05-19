@@ -1,16 +1,17 @@
 ## How to access help in VR
 
-These GitHub help pages provide the basics to get started. Once you have installed _AVA360VR_ and the Demo Package, then you can access help video and volcap tutorials directly in _AVA360VR_ without leaving VR.
+These GitHub help pages provide the basics to get started. Once you have installed _AVA360VR_ and the Demo Package, then you can access help video and VolCap tutorials directly in _AVA360VR_ without leaving VR.
 
 The help tutorials are accessible in VR from the [Demo Package](demo.md) after it is loaded.
 If you wish to go straight to the HELP project tutorials, then after running AVA360VR and selecting the LOAD screen, you can load the analysis version called `HELP-001` after switching to the `HELP` project in the `DEMO PACKAGE`.
 Or else, just go to the analysis mapping tool accessible from the left controller.
 
-Please submit a [suggestion how to improve the help pages and video tutorials](tutorialrequest.md).
+If you have an idea, please submit a [suggestion how to improve the help pages and video tutorials](tutorialrequest.md).
 
 ### Complete list of tutorials contained in the Demo Package
 
-There is a healthy selection of video and VolCap tutorials accessible from the Demo Package. Here is a list:
+There is a healthy selection of video and VolCap tutorials accessible from the Demo Package.
+Here is a list:
 
 #### Guides and Demonstrations
 
@@ -27,8 +28,9 @@ There is a healthy selection of video and VolCap tutorials accessible from the D
 - Controllers
 - Playback
 - Window Controls
-- Rotate Scene
 - Navigation
+- Rotate Scene
+- Audio volume
 - Audience Cam
 
 ##### Project management
@@ -46,7 +48,6 @@ There is a healthy selection of video and VolCap tutorials accessible from the D
 - Unsynced 2D Video
 - Play Individual Media
 - Import Audio
-- Audio volume
 - Audio Controls
 - Import Image
 - Import 3D Object

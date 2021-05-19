@@ -15,11 +15,10 @@ We have produced an [online video](https://youtu.be/FWZy9PK_ODw) that gives inst
 #### Synced 360 video clips
 
 - The resolution and bit rate of the 360 video should be as high as possible, otherwise the video playback will be blocky and blurred in VR.
-Use the raw footage and render at a high bit rate using the camera software (or dedicated software such as _MistikaVR_).
+Use the raw 360 footage and render at a high bit rate using the camera software (or dedicated stitching software such as _MistikaVR_).
 - The dimensions of the 360 video should be 4K or UHD, eg. from 3840x1920 up to 4096x2160.
-Video at higher resolutions, eg. 8K or 6K is not supported.
+Video at higher resolutions, eg. 8K or 6K, is not supported.
 - Stereoscopic 360 video is not supported in this release.
-The video playback may be choppy and delayed.
 - Stitch the raw footage carefully so that the stitch lines between lenses are not too visible.
 - With mobile 360 cameras use stabilisation while filming or stabilise later in the camera software.
 _MistikaVR_ has tools for re-stabilising, but it is not free and it takes some effort.
@@ -27,6 +26,7 @@ _MistikaVR_ has tools for re-stabilising, but it is not free and it takes some e
 You can use any non-linear video editor (e.g. _Adobe Premiere Pro_ or _Final Cut Pro_) or cross-platform free open-source software such as [_HandBrake_](https://handbrake.fr) to export the video into the new format.
 Choose a standard preset such as `Video You Tube` and select a similar size and framerate to the original.
 You may need to experiment to find the best quality.
+- The video playback may be choppy with some latency.
 
 #### Synced audio clips
 

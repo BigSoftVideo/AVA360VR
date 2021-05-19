@@ -27,7 +27,7 @@ The VolCaps are 50 to 100 times smaller in MBytes than the equivalent video.
 ### Playback
 
 - Scrub the timeline (video) (🌐)
-- Sync of all audiovisual assets imported in the scene
+- Sync of all audio-visual assets imported in the scene
 - View mirror cam that makes visible what is behind you (🌐)
 
 ### Sound
