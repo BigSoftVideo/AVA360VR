@@ -18,8 +18,8 @@ Here is a list:
 - Welcome
 - Getting Started
 - AVA360VR minitour
-- Demo 1 - Multicam
-- Demo 2 - Audio Mix
+- Demo 1 - Multicam video
+- Demo 2 - Audio Mixing
 - Demo 3 - Drawing
 - Demo Grand Tour
 
