@@ -1,6 +1,6 @@
 ## How to download and setup the DEMO project for the first time
 
-After you have [downloaded the demo package zip file](install.md), you can unzip the demo package since it contains all the files you need to try out a real example of a project.
+After you have [installed _AVA360VR_ and downloaded the demo package zip files](install.md), you need to unzip the demo package since it contains all the files you need to try out a real example of a project.
 The pre-prepared projects contain [open data](https://wiki.creativecommons.org/wiki/data) that are public under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 It is best to unzip this package to a fast SSD drive (internal or external). The demo package is huge (approx. 5 GB) so you will need plenty of free storage.
