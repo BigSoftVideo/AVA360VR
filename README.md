@@ -4,6 +4,8 @@ It includes many innovative features, such as 360 video switching, video recammi
 
 We have made a [welcome video and a short minitour](https://www.youtube.com/watch?v=ppZZsd3f8zY) of the main features that you can watch on YouTube.
 
+![AVA360VR welcome and minitour](images/welcome.png)
+
 ## Features
 
 - Take a look at a [list of the key features](features.md) of _AVA360VR_.
