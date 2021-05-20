@@ -2,7 +2,7 @@ _AVA360VR_ (Annotate, Visualise, Analyse 360 video in Virtual Reality) is our fl
 It is designed specifically for working with and inhabiting 360 video.
 It includes many innovative features, such as 360 video switching, video recamming, live 3D audio mixing, annotating with drawings and animation, as well as a keyframe image sequence generator, a live transcript viewer, a comic panel sequence creator, volumetric capture and replay of actual usage, 3D tutorials and a full project/analysis management interface.
 
-{% include youtubeplayer.html id="ppZZsd3f8zY" %}
+We have made a [welcome video and a short minitour](https://www.youtube.com/watch?v=ppZZsd3f8zY) of the main features that you can watch on YouTube.
 
 ## Features
 
