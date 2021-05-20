@@ -1,10 +1,3 @@
----
-sidebar:
-  - title: "Getting Started with AVA360VR"
-    image: logo.png 
-    text: "[Installation](install.md)"
----
-
 ## How to install and run AVA360VR
 
 From GitHub you will be able to download the latest build release of AVA360VR and run it from Windows 10 on your computer.
