@@ -2,12 +2,16 @@
 
 From GitHub you will be able to download the latest build release of AVA360VR and run it from Windows 10 on your computer.
 
-Your system will need to fulfil certain requirements.
+Note that the _AVA360VR_ software package is closed-source (build only) and is free to use for non-commercial purposes.
+Unauthorised use, distribution or alteration of the code is not permitted.
+Copyright (c) 2021 BigSoftVideo.
+
+To use _AVA360VR_, your computer system and VR gear will need to fulfil certain requirements.
 
 ### Requirements
 
 You will need a fast **VR-ready** PC laptop (eg. a gaming laptop) with **Windows 10**.
-AVA360VR now works with most mid- to high-end VR headsets with six-degrees of freedom controllers.
+_AVA360VR_ now works with most mid- to high-end VR headsets with six-degrees of freedom controllers.
 We have tested successfully with the following headsets:
 - HTC VIVE
 - HTC VIVE PRO
@@ -16,7 +20,7 @@ We have tested successfully with the following headsets:
 - HP Reverb G1 (not the G2)
 - Valve Index
 
-AVA360VR should work with any VR headset that supports _SteamVR_, including _Windows Mixed Reality_ and _Oculus_.
+_AVA360VR_ should work with any VR headset that supports _SteamVR_, including _Windows Mixed Reality_ and _Oculus_.
 If you are unsure if you have a compatible laptop/workstation and VR headset/controllers, then just ask us.
 
 You will need to install Steam and Steam VR with the relevant VR software for your headset, eg. _Windows Mixed Reality_, _Viveport_ or _Oculus_.
