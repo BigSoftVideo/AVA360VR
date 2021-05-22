@@ -2,7 +2,7 @@
 
 From GitHub you will be able to download the latest build release of AVA360VR and run it from Windows 10 on your computer.
 
-Note that the _AVA360VR_ software package is closed-source (build only) and is free to use for non-commercial purposes.
+> Note that the _AVA360VR_ software package is closed-source (build only) and is free to use for non-commercial purposes.
 Unauthorised use, distribution or alteration of the code is not permitted.
 Copyright (c) 2021 BigSoftVideo.
 
