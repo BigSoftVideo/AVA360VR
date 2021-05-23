@@ -6,4 +6,4 @@ To cite the _AVA360VR_ software, please use this [link](https://vbn.aau.dk/en/pu
 
 The [_Demo Package_](demo.md) contains [open data](https://wiki.creativecommons.org/wiki/data) that are public under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-To cite the demo package, please refer to the [Lego Project Data Archive]().
+To cite the demo package, please refer to the [Lego Project Data Archive](http://doi.org/10.5281/zenodo.4292236).
