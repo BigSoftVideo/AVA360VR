@@ -22,6 +22,10 @@ We have made a [welcome video and a short minitour](https://www.youtube.com/watc
 
 - Here you will find [instructions how to create your very own project](project.md) for _AVA360VR_.
 
+## Tips & Tricks
+
+- How do I [do a specific action or task](tips.md)?
+
 ## Bug reports
 
 - How do I enter a [bug report](bugreport.md)?
