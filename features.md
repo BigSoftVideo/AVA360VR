@@ -1,8 +1,10 @@
 ## Main features of _AVA360VR_
 
 This is a list of some of the key features of AVA360VR according to different categories, with links and some indication of whether or not there is a tutorial video (📼) or 'VolCap' (🌐) available in the [Demo Package](demo.md).
-At some point, all the VolCaps will also be available to download as 2D videos from an archive, but they cannot be included in the Demo Package because of space restrictions.
+At some point, all the VolCaps will also be available to download from an archive after they are rendered as standard 2D videos, but these videos cannot be included in the Demo Package because of space restrictions.
 The VolCaps are 50 to 100 times smaller in MBytes than the equivalent video.
+Besides making immersive VolCap Tutorials, the main purpose of this rich feature is for qualitative researchers to capture their live analyses volumetrically, replay them in 3D and share them with others to replay (and re-enact) immersively at a later date.
+One could compare it to transplanar, volumetric CGI scenes found in cinema and television, such as _Star Trek_, _The Matrix_, _Ready Player One_, _Soul_, _Made for Love_, _The Flight Attendant_, _WandaVision_ and _Raised by Wolves_.
 
 ### Project management
 
