@@ -1,7 +1,9 @@
 ## How to download and setup the DEMO project for the first time
 
 After you have [installed _AVA360VR_ and downloaded the demo package zip files](install.md), you need to unzip the demo package since it contains all the files you need to try out a real example of a project.
+
 The pre-prepared projects contain [open data](https://wiki.creativecommons.org/wiki/data) that are public under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+The Lego demo project that is included in the package uses audio-visual data that is derived from our open [Lego Project Data Archive](http://doi.org/10.5281/zenodo.4292236), which is described in this [published academic article](https://doi.org/10.5278/ojs.quivirr.v1.2020.a0003).
 
 It is best to unzip this package to a fast SSD drive (internal or external). The demo package is huge (approx. 5 GB) so you will need plenty of free storage.
 
