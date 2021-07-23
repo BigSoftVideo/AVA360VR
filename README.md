@@ -16,7 +16,7 @@ We have made a [welcome video and a short minitour](https://www.youtube.com/watc
 
 ## Demo project and active help
 
-- How do I try the [demo project](demo.md) and how do I [access help in VR](help.md)?
+- How do I try the [demo project](demo.md) and how do I [access help and the tutorials in VR](help.md)?
 
 ## Create your own project
 
