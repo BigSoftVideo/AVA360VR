@@ -6,7 +6,7 @@ The immersive help tutorials are accessible in VR from the [Demo Package](demo.m
 If you wish to go straight to the HELP project tutorials, then after running AVA360VR and selecting the LOAD screen, you can load the analysis version called `HELP-001` after switching to the `HELP` project in the `DEMO PACKAGE`.
 Or else, just go to the analysis mapping tool accessible from the left controller.
 
-2D help videos are also available on the AVA360VR release page on GitHub.
+2D help videos are also available on the AVA360VR [release page on GitHub](https://github.com/BigSoftVideo/AVA360VR/releases/tag/v3.0.0-tutorial-videos).
 Many of these videos are recordings of the viewport in VR while RePlaying the VolCap tutorial.
 As such, they are inferior representations of the immersive experience.
 They are provided for those who wish to scrub through the video quickly or who do not have access to VR.
