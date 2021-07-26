@@ -1,4 +1,4 @@
-@import "jekyll-theme-hacker";
+@import "hacker";
 .body {
 	margin: 5;
 	padding: 0;
