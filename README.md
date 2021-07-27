@@ -46,6 +46,12 @@ We have made a [welcome video and a short minitour](https://www.youtube.com/watc
 
 - You can discuss features, enhancements and bugs on our [AVA360VR Discussion Forum](https://github.com/BigSoftVideo/AVA360VR/discussions) on GitHub.
 
+## How do I cite AVA360VR?
+
+Please cite AVA360VR by referring to the following:
+- DOI: 10.5281/zenodo.5139349
+- [vbn.aau.dk/en/publications/ava360vr-annotate-visualise-analyse-360-video-in-virtual-reality](https://vbn.aau.dk/en/publications/ava360vr-annotate-visualise-analyse-360-video-in-virtual-reality)
+
 ## Talking with the developers
 
 - How do I [contact the developers](contact.md) more directly?
